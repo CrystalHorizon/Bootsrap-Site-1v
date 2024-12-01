@@ -23,4 +23,5 @@ To do list from lesson:
 
 
 .container > "row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5" - for 3 column
+
 .row > "col-lg-6 col-md-8 mx-auto" - width of column maybe
